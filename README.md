@@ -33,8 +33,6 @@ Olá! 👋 Eu sou o **Luiz Gabriel**, estudante de **Análise e Desenvolvimento 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizSanti&theme=transparent&bg_color=000000&border_color=1E90FF&show_icons=true&icon_color=1E90FF&title_color=1E90FF&text_color=ffffff&hide_title=true&hide=stars)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuizSanti&bg_color=000000&border_color=1E90FF&title_color=1E90FF&text_color=ffffff)
-
 ---
 
 ## 🔥 Minhas Contribuições
