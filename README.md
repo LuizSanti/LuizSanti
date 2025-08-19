@@ -1,7 +1,7 @@
 # 👨‍💻 Luiz Gabriel
 
 
-Olá! 👋 Eu sou o **Luiz Gabriel**, estudante de **Sistemas de Informação**. Estou sempre em busca de novos aprendizadose oportunidades para aplicar meus conhecimentos em projetos reais.
+Olá! 👋 Eu sou o **Luiz Gabriel**, estudante de **Análise   Desenvolvimento de Sistemas**. Estou sempre em busca de novos aprendizadose oportunidades para aplicar meus conhecimentos em projetos reais.
 
 ---
 
